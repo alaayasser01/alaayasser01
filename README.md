@@ -17,11 +17,11 @@ I'm a **_Systems and Biomedical Engineering_** student with a **_passion for sof
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=feel%20free%20to%20contact%20me!;Thanks%20for%20stopping%20by!🙌&font=Fira%20Code&center=true&width=440&height=45&color=%23800080&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=feel%20free%20to%20contact%20me!🤗;Thanks%20for%20stopping%20by!🙌&font=Fira%20Code&center=true&width=440&height=45&color=%23800080&vCenter=true&size=22"></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alaa-yasser-el-gendy">LinkedIn</a> - 
+  <a href="https://twitter.com/alaayasser01">Twitter</a> - 
+  <a href="mailto:alaayasser499@gmail.com">Email</a>
 </p>
 
-
-
-- [LinkedIn](https://www.linkedin.com/in/alaa-yasser-el-gendy)
-- [Twitter](https://twitter.com/alaayasser01)
-- [Email](mailto:alaayasser499@gmail.com)
