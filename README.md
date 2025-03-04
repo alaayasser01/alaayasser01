@@ -3,7 +3,8 @@ I'm a **_Systems and Biomedical Engineering_** student with a **_passion for sof
 
 ## 🤓 Here's a bit about me:
 
-- 🔬 I'm currently a senior student pursuing a degree in Systems and Biomedical Engineering.
+- 🔬 I have graduated from Systems and Biomedical Engineering with honors.
+- 💡 I'm currently doing my masters degree in Artificial Intelligence for Image Processing and Computer Vision
 - 💻 My coding journey is all about creating innovative solutions that make a difference in healthcare.
 - 🚀 I believe in the power of technology to transform and improve our world.
 
