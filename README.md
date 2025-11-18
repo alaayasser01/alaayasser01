@@ -1,5 +1,5 @@
 # Hello, I'm Alaa Yasser 👋
-I'm a **_Systems and Biomedical Engineering_** student with a **_passion for software development_** at the intersection of **_engineering and medical health_**.
+I'm a **_Systems and Biomedical Engineering_** student with a **_passion for AI development_** at the intersection of **_engineering and medical health_**.
 
 ## 🤓 Here's a bit about me:
 
